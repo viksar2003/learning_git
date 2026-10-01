@@ -1,0 +1,1 @@
+line1 --> add multiple file at time of staging area
